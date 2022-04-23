@@ -18,6 +18,12 @@ You are welcome to [join us on Slack](https://fronteers-slack.herokuapp.com/). M
 
 If you'd like to contribute, we'd love to have you on board. You can check our [How to contribute](docs/contribute.md) document for more info on all the ways we could use your help!
 
+## Beta website
+
+Yes can already see how far we have come:
+
+- [Fronteers beta site](https://fronteers-beta.netlify.app/)
+
 ## Docs
 
 - [Code of Conduct](docs/code-of-conduct.md)
@@ -29,6 +35,14 @@ If you'd like to contribute, we'd love to have you on board. You can check our [
 ## Design
 
 - [Design by Ready for Take-Off](https://xd.adobe.com/view/bd533314-bf05-4cbe-b634-499f8f25dbbc-e800/)
+
+## Kitchen Sink
+
+Most designed components can be found in the Kitchen Sink.
+When making components or pages, make sure you reuse as much as possible.
+
+- [Kitchen sink repo](https://github.com/fronteers/website/blob/main/src/nl/kitchensink-html.md)
+- [Kitchen sink on beta site](https://fronteers-beta.netlify.app/nl/kitchensink.html)
 
 ## Open Source
 
